@@ -1,0 +1,85 @@
+D:\Visual Studio Projects\TimeTableManagement\TimeTableManagement\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio Projects\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.frmSubject.resources
+D:\Visual Studio Projects\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.Resources.resources
+D:\Visual Studio Projects\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.vbproj.GenerateResource.Cache
+D:\Visual Studio Projects\TimeTableManagement\TimeTableManagement\bin\Debug\TimeTableManagement.exe
+D:\Visual Studio Projects\TimeTableManagement\TimeTableManagement\bin\Debug\TimeTableManagement.pdb
+D:\Visual Studio Projects\TimeTableManagement\TimeTableManagement\bin\Debug\TimeTableManagement.xml
+D:\Visual Studio Projects\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.exe
+D:\Visual Studio Projects\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.xml
+D:\Visual Studio Projects\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.pdb
+D:\Visual Studio Projects\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.LoginForm1.resources
+D:\Visual Studio Projects\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.MDIParent1.resources
+D:\Visual Studio Projects\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.frmSemester.resources
+D:\Visual Studio Projects\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.frmFaculty.resources
+D:\Visual Studio Projects\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.frmFacultySubjectMapping.resources
+D:\Visual Studio Projects\TimeTableManagement\TimeTableManagement\obj\Debug\TimeTableManagement.frmTi_eTable.resources
+E:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2009-2010\DSS\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.exe
+E:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2009-2010\DSS\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.xml
+E:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2009-2010\DSS\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.pdb
+E:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2009-2010\DSS\TimeTableManagement_new\TimeTableManagement\bin\Debug\TimeTableManagement.exe
+E:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2009-2010\DSS\TimeTableManagement_new\TimeTableManagement\bin\Debug\TimeTableManagement.pdb
+E:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2009-2010\DSS\TimeTableManagement_new\TimeTableManagement\bin\Debug\TimeTableManagement.xml
+E:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2009-2010\DSS\TimeTableManagement_new\TimeTableManagement\obj\Debug\ResolveAssemblyReference.cache
+E:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2009-2010\DSS\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.frmFaculty.resources
+E:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2009-2010\DSS\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.frmFacultySubjectMapping.resources
+E:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2009-2010\DSS\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.frmSemester.resources
+E:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2009-2010\DSS\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.frmSubject.resources
+E:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2009-2010\DSS\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.frmTi_eTable.resources
+E:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2009-2010\DSS\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.LoginForm1.resources
+E:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2009-2010\DSS\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.MDIParent1.resources
+E:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2009-2010\DSS\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.Resources.resources
+E:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2009-2010\DSS\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.vbproj.GenerateResource.Cache
+E:\Project_2011-2012\DSS\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.exe
+E:\Project_2011-2012\DSS\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.xml
+E:\Project_2011-2012\DSS\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.pdb
+C:\Users\dhwani\Desktop\dss\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.exe
+C:\Users\dhwani\Desktop\dss\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.xml
+C:\Users\dhwani\Desktop\dss\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.pdb
+C:\Users\dhwani\Desktop\dss\TimeTableManagement_new\TimeTableManagement\bin\Debug\TimeTableManagement.exe
+C:\Users\dhwani\Desktop\dss\TimeTableManagement_new\TimeTableManagement\bin\Debug\TimeTableManagement.pdb
+C:\Users\dhwani\Desktop\dss\TimeTableManagement_new\TimeTableManagement\bin\Debug\TimeTableManagement.xml
+C:\Users\dhwani\Desktop\dss\TimeTableManagement_new\TimeTableManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dhwani\Desktop\dss\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.frmFaculty.resources
+C:\Users\dhwani\Desktop\dss\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.frmFacultySubjectMapping.resources
+C:\Users\dhwani\Desktop\dss\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.frmSemester.resources
+C:\Users\dhwani\Desktop\dss\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.frmSubject.resources
+C:\Users\dhwani\Desktop\dss\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.frmTi_eTable.resources
+C:\Users\dhwani\Desktop\dss\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.LoginForm1.resources
+C:\Users\dhwani\Desktop\dss\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.MDIParent1.resources
+C:\Users\dhwani\Desktop\dss\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.Resources.resources
+C:\Users\dhwani\Desktop\dss\TimeTableManagement_new\TimeTableManagement\obj\Debug\ResGen.read.1.tlog
+C:\Users\dhwani\Desktop\dss\TimeTableManagement_new\TimeTableManagement\obj\Debug\ResGen.write.1.tlog
+C:\Users\Gaurav\Desktop\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.exe
+C:\Users\Gaurav\Desktop\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.xml
+C:\Users\Gaurav\Desktop\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.pdb
+C:\Users\Gaurav\Desktop\TimeTableManagement_new\TimeTableManagement\bin\Debug\TimeTableManagement.exe
+C:\Users\Gaurav\Desktop\TimeTableManagement_new\TimeTableManagement\bin\Debug\TimeTableManagement.pdb
+C:\Users\Gaurav\Desktop\TimeTableManagement_new\TimeTableManagement\bin\Debug\TimeTableManagement.xml
+C:\Users\Gaurav\Desktop\TimeTableManagement_new\TimeTableManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gaurav\Desktop\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.frmFaculty.resources
+C:\Users\Gaurav\Desktop\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.frmFacultySubjectMapping.resources
+C:\Users\Gaurav\Desktop\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.frmSemester.resources
+C:\Users\Gaurav\Desktop\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.frmSubject.resources
+C:\Users\Gaurav\Desktop\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.frmTi_eTable.resources
+C:\Users\Gaurav\Desktop\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.LoginForm1.resources
+C:\Users\Gaurav\Desktop\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.MDIParent1.resources
+C:\Users\Gaurav\Desktop\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.Resources.resources
+C:\Users\Gaurav\Desktop\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.vbproj.GenerateResource.Cache
+C:\Users\dhwani\Desktop\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.exe
+C:\Users\dhwani\Desktop\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.xml
+C:\Users\dhwani\Desktop\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.pdb
+C:\Users\dhwani\Desktop\TimeTableManagement_new\TimeTableManagement\bin\Debug\TimeTableManagement.exe
+C:\Users\dhwani\Desktop\TimeTableManagement_new\TimeTableManagement\bin\Debug\TimeTableManagement.pdb
+C:\Users\dhwani\Desktop\TimeTableManagement_new\TimeTableManagement\bin\Debug\TimeTableManagement.xml
+C:\Users\dhwani\Desktop\TimeTableManagement_new\TimeTableManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dhwani\Desktop\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.frmFaculty.resources
+C:\Users\dhwani\Desktop\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.frmFacultySubjectMapping.resources
+C:\Users\dhwani\Desktop\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.frmSemester.resources
+C:\Users\dhwani\Desktop\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.frmSubject.resources
+C:\Users\dhwani\Desktop\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.frmTi_eTable.resources
+C:\Users\dhwani\Desktop\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.LoginForm1.resources
+C:\Users\dhwani\Desktop\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.MDIParent1.resources
+C:\Users\dhwani\Desktop\TimeTableManagement_new\TimeTableManagement\obj\Debug\TimeTableManagement.Resources.resources
+C:\Users\dhwani\Desktop\TimeTableManagement_new\TimeTableManagement\obj\Debug\ResGen.read.1.tlog
+C:\Users\dhwani\Desktop\TimeTableManagement_new\TimeTableManagement\obj\Debug\ResGen.write.1.tlog
